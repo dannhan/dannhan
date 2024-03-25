@@ -3,4 +3,86 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannhan&theme=vue-dark&hide_border=true" width="490">
 </div>
 
+<p align="left">Languages and Tools:</p>
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"
+    alt="neovim"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg"
+    alt="archlinux"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    alt="css3"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    alt="html5"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"
+    alt="svelte"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+    alt="tailwind"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    alt="react"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+    alt="nextjs"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+    alt="git"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"
+    alt="firebase"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+    alt="postgresql"
+    width="40"
+    height="40"
+  />
+</p>
+
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
